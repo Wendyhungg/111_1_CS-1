@@ -1,0 +1,6 @@
+apple 35 USA 5/22/22
+banana 20 Taiwan 6/30/22
+guava 30 Japan 4/30/22
+orange 60 China 5/30/22
+cherry 70 USA 7/5/22
+mango 50 Taiwan 6/3/22

@@ -1,0 +1,9 @@
+John 23 177
+May 5 120
+Tom 1 80
+Jenny 15 150
+David 27 185
+Jennifer 18 158
+Henry 38 186
+Gary 41 172
+Lulu 22 167
