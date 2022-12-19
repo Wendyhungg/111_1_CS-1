@@ -6,8 +6,8 @@ WEEK1
 * Why we learn Git & Linux
 ---
 WEEK2
-* What is Lixun
-* User & Group Auth
+* What is Linux
+* User & Group auth
 * File editor: nano, vim
 ---
 WEEK3
